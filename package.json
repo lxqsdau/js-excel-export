@@ -1,0 +1,24 @@
+{
+  "name": "js-excel-export",
+  "version": "1.0.3",
+  "description": "js导出excel",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "js-excel",
+    "export-excel",
+    "js-export-excel"
+  ],
+  "author": "刘玄清",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.38.0",
+    "webpack-cli": "^3.3.6"
+  },
+  "dependencies": {
+    "js-export-excel": "^1.1.2"
+  }
+}
