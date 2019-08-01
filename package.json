@@ -15,10 +15,18 @@
   "author": "刘玄清",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^4.38.0",
-    "webpack-cli": "^3.3.6"
   },
   "dependencies": {
-    "js-export-excel": "^1.1.2"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxqsdau/js-excel-export.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lxqsdau/js-excel-export/issues"
+  },
+  "homepage": "https://github.com/lxqsdau/js-excel-export#readme"
 }
